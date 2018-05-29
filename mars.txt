@@ -1,5 +1,8 @@
 cold and dry, but everything is my favorite color.
+<<<<<<< HEAD
 changes after git added to staging.
 the two moons may be a problem.
 but the mummy will appreciate the lack of humidity.
 one more time 
+=======
+>>>>>>> parent of e181358... remove changes, no third line
